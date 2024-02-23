@@ -1,6 +1,6 @@
 # Hash Table para Registro de Mercadorias
 
-Este projeto implementa uma Hash Table em C++ para gerenciar um registro de mercadorias. A tabela hash suporta inserções, buscas e remoções de mercadorias, tratando colisões através de encadeamento.
+Essa atividade ponderada implementa uma Hash Table em C++ para gerenciar um registro de mercadorias. A tabela hash suporta inserções, buscas e remoções de mercadorias, tratando colisões através de encadeamento.
 
 ## Casos de Teste
 
@@ -37,10 +37,8 @@ Abaixo estão as capturas de tela para os casos de teste, demonstrando os result
 
 ### Casos de teste:
 
-<(../main/Arquivos/Casos_de_teste.png)
- style="display: block; margin: auto;"></img>
+<img src="../assets/imagens/Casos_de_teste.png" style="display: block; margin: auto;"></img>
 
 ### Resultados obtidos:
 
-<(../main/Arquivos/Resultados.png)
- style="display: block; margin: auto;"></img>
+<img src="../assets/imagens/Resultados.png" style="display: block; margin: auto;"></img>
