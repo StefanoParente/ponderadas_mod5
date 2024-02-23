@@ -37,6 +37,8 @@ Abaixo estão as capturas de tela para os casos de teste, demonstrando os result
 
 ### Casos de teste:
 
-
+<img src=“../Arquivos/Casos de teste.png" style="display: block; margin: auto;"></img>
 
 ### Resultados obtidos:
+
+<img src=“../Arquivos/Resultados.png" style="display: block; margin: auto;"></img>
